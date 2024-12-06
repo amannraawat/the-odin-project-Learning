@@ -1,0 +1,19 @@
+.odd {
+    background-color: #f09191;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first-id{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#second-id{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
